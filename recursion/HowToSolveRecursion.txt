@@ -1,0 +1,21 @@
+1) Identify if you can break problem in smaller problem.
+2) Write the recurrence relation if needed.
+3) Draw the recursive tree.
+4) About the tree:
+    - See the flow of function. How they are getting in stack?
+    - Identify and focus on left tree calls and right tree calls.
+    - Draw the tree and pointers again and again using pen and paper,
+    - Wse a debugger to the flow.
+6) See how the values and what type of  are returned at each step. See where
+   the function will come out. In the end you will come out of the main function.
+7) The variables:
+    - The variables that are needed to be passed to the next recursive function
+      call, put them in the parameter of the function.
+      EX - start and end pointer in BinarySearchRecursion.
+    - The variable that only used inside a recursive function and don't need to
+      be passed on the future recursion calls, put that in body of the function.
+      EX - Mid pointer variable in BinarySearchRecursion.
+
+8) Make sure to return the result of a function call of the return type.
+
+7) No one can explain Recursion to you, if you are not using pen and paper.

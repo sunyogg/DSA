@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/Problems/Problems.iml" filepath="$PROJECT_DIR$/BinarySearch/Problems/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/Problems/RotatedSortedArray/RotatedSortedArray.iml" filepath="$PROJECT_DIR$/BinarySearch/Problems/RotatedSortedArray/RotatedSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Searching.iml" filepath="$PROJECT_DIR$/.idea/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingInMatrix2D/SearchingInMatrix2D.iml" filepath="$PROJECT_DIR$/SearchingInMatrix2D/SearchingInMatrix2D.iml" />
+    </modules>
+  </component>
+</project>
