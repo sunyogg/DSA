@@ -1,6 +1,14 @@
 # Mac Specific
 .DS_Store
 
+# for intellijidea
+*.idea
+
+# for directories
+TryingAdvanceTopics/
+resources/
+SpaceAndTime Complexity/
+
 # Compiled class file
 *.class
 
