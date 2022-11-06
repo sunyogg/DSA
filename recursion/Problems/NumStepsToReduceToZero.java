@@ -1,4 +1,4 @@
-package recursion.Problems.src;// 1342
+package recursion.Problems;// 1342
 
 public class NumStepsToReduceToZero {
 

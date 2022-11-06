@@ -1,4 +1,4 @@
-package recursion.Problems.src;
+package recursion.Problems;
 
 import java.util.ArrayList;
 import java.util.Arrays;

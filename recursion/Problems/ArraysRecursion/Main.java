@@ -1,4 +1,4 @@
-package recursion.ArraysRecursion.src;
+package recursion.Problems.ArraysRecursion;
 
 public class Main {
     public static void main(String[] args) {
