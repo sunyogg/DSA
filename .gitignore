@@ -3,11 +3,13 @@
 
 # for intellijidea
 *.idea
+*.iml
 
 # for directories
 TryingAdvanceTopics/
 resources/
 SpaceAndTime Complexity/
+out/
 
 # Compiled class file
 *.class
