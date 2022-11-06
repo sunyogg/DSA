@@ -1,3 +1,5 @@
+package bitwiseoperator;
+
 public class BitwiseOperatorTricks {
     public static void main(String[] args) {
         checkNthBit(99, 2);
